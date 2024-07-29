@@ -1,4 +1,4 @@
-# GurkiratS335.github.io
+# Gurkirat3335.github.io
 # My First github Program
 ## Gurkirat335.github.io
 # _Activity report of induction programme 2024_
