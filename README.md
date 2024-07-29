@@ -1,6 +1,5 @@
 # Gurkirat335.github.io
 # My First github Program
-## Gurkirat335.github.io
 # _Activity report of induction programme 2024_
 ## Welcome to my GitHub repository showcasing my Excel course certificate and Report of The Induction programme
 ![3468b4f0-1780-4ecf-99ac-d5c5296dea6c](https://github.com/user-attachments/assets/8773e27f-7fe1-40c3-9996-a5dbd64657f3)
